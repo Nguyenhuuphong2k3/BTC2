@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "67e2bfdfb2bf9418c6d4c2b6"
+  },
+  "username": "admin1",
+  "password": "$2b$10$Z9PVK9fRerwHBdX41KkHDurH1flZHMB6AKtKfkqAw/EdYg6zV0vaW",
+  "email": "admin1@gmail.com",
+  "fullName": "Admin One",
+  "avatarUrl": "https://4.bp.blogspot.com/-AYOvATaN5wQ/V5sRt4Kim_I/AAAAAAAAF8s/QWR5ZHQ8N38ByHRLP2nOCJySfMmJur5sACLcB/s1600/sieu-nhan-cuu-the-gioi.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67e238e7877b137a5bf3a3fe"
+  },
+  "createdAt": {
+    "$date": "2025-03-25T14:38:23.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T14:38:23.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e2c076b2bf9418c6d4c2b9"
+  },
+  "username": "moderator1",
+  "password": "$2b$10$p1TzsCiggEsSYKDrADW.OOR0Req.t6I9euffZ4Eb..KX7UJ.7.Ae.",
+  "email": "moderator1@gmail.com",
+  "fullName": "Moderator One",
+  "avatarUrl": "https://image.tienphong.vn/600x315/Uploaded/2025/zaugtn/2022_11_21/s1-5719.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67e23913877b137a5bf3a400"
+  },
+  "createdAt": {
+    "$date": "2025-03-25T14:40:54.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T14:40:54.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e2c12ab2bf9418c6d4c2bc"
+  },
+  "username": "user1",
+  "password": "$2b$10$cSTqiAQvEgfyqPv.aiPLWubmqHzcXgoFPzYtykn.wDfxsuAcAZTLu",
+  "email": "user1@gmail.com",
+  "fullName": "User One",
+  "avatarUrl": "https://i.otakul.com/3719/0ccdbd8f2c5adb2aec226d8e3d314195.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67e23922877b137a5bf3a402"
+  },
+  "createdAt": {
+    "$date": "2025-03-25T14:43:55.003Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T14:43:55.003Z"
+  },
+  "__v": 0
+}]
